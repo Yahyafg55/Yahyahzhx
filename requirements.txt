@@ -3,5 +3,4 @@ pyrogram
 requests
 datetime
 flask
-shelve
 telebot
