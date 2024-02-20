@@ -1,7 +1,6 @@
 pyTelegramBotAPI
 pyrogram
 requests
-sqlite3
 datetime
 flask
 shelve
