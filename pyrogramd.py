@@ -1,9 +1,9 @@
 from pyrogram import Client, filters
 
-bot_token = "6969577050:AAFeNsbUqhXzHMiHpB45f4DTTLWZWWDYhk8"
+bot_token = "7060710135:AAGt7i_0cP4fP1rAerCksVtBoW_vPVsBRZk"
 
-api_id = 10027276
-api_hash = "ce5e8cd00a5bdd3c09c5f1489c4fb858"
+api_id = 28902527
+api_hash = "b7792e9f5adb7fae0566aaf247030b4b"
 app = Client("nb", api_id, api_hash, bot_token=bot_token)
 
 
